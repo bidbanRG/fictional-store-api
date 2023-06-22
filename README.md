@@ -8,7 +8,7 @@
 # How to start
 1. Clone the repository:
 
-$ git clone https://github.com/bidbanRG/fictious-online-store-api.git
+$ git clone https://github.com/bidbanRG/fictional-store-api.git
 
 2. Install the dependencies:
 
