@@ -12,7 +12,7 @@ $ git clone https://github.com/bidbanRG/fictional-store-api.git
 
 2. Install the dependencies:
 
-   $ cd fictious-online-store
+   $ cd fictional-store-api
 
    # for npm
       $ npm install 
