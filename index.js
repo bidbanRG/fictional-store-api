@@ -15,7 +15,7 @@ app.use(bodyParser.json({extended:true}))
 app.use(bodyParser.urlencoded({extended:true}))
 app.use("/api/",Router)
 
-app.listen(process.env.PORT,() => {
+app.listen(PORT,() => {
     console.log(`server is running on http://localhost:${PORT}`)
 })
 MongoDBConnection();
